@@ -1,3 +1,5 @@
+package com.nikitaponomar;
+
 public class PaintJob {
 
     //The method needs to return a value of type int that represents the number of buckets
